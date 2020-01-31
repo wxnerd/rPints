@@ -1,4 +1,10 @@
-RaspberryPints (RPints) is a digital upgrade to the conventional chalkboard taplist, created just for the home brewer. Display your current beers on tap with a sleek, digital presentation. Manage your beers, recipes, kegs, and taps with our built-in tracking system.
+A fork of the original RaspberryPints project, with hopes to update the software and share with fellow brewers. 
+
+
+
+//Original Project README.md below//
+
+RaspberryPints (rPints) is a digital upgrade to the conventional chalkboard taplist, created just for the home brewer. Display your current beers on tap with a sleek, digital presentation. Manage your beers, recipes, kegs, and taps with our built-in tracking system.
 
 
 Licensing:
